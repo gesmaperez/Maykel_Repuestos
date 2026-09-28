@@ -10,8 +10,8 @@ const String kApiBase = String.fromEnvironment('API_BASE', defaultValue: '');
 /// se guardan en el backend (ver ContenidoSitio en models.dart). Esta clase
 /// queda solo como referencia histórica de los valores por defecto.
 class ContactoConfig {
-  static const String whatsappNumber = '56969170551';
-  static const String contactEmail = 'gesma.perez@gmail.com';
+  static const String whatsappNumber = '569';
+  static const String contactEmail = '@gmail.com';
   static const String direccion =
       'Vargas 2228-A, Calama, Región de Antofagasta';
   static const String mapsUrl =
