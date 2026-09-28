@@ -612,17 +612,16 @@ class ContenidoSitio {
           texto: 'Este sitio web es operado por Maykel Repuestos, negocio dedicado a la '
               'venta de repuestos automotrices, con domicilio en Vargas 2228-A, '
               'Calama, Región de Antofagasta, Chile. Para consultas sobre este '
-              'aviso legal, puedes escribir a gesma.perez@gmail.com.',
+              'aviso legal, puedes escribir a @.',
         ),
         SeccionLegal(
           titulo: '2. Objeto del sitio',
-          texto: 'Este sitio permite consultar el catálogo de repuestos disponibles y '
-              'generar una solicitud de reserva sobre un producto. La reserva no '
-              'constituye una compra confirmada ni un contrato de compraventa: es '
-              'una manifestación de interés que debe ser confirmada directamente '
-              'con el negocio por WhatsApp o correo electrónico, donde también se '
-              'coordina el precio final, la forma de pago y la entrega o retiro '
-              'del producto.',
+          texto: 'Este sitio permite consultar el catálogo de repuestos disponibles y' 
+          'generar una solicitud de reserva sobre un producto. La reserva no constituye' 
+          'una compra confirmada ni un contrato de compraventa: es una manifestación de' 
+          'interés que debe ser confirmada directamente con el negocio por WhatsApp o correo' 
+          'electrónico, donde también se coordina el precio final, la forma de pago y' 
+          'la entrega o retiro del producto.',
         ),
         SeccionLegal(
           titulo: '3. Disponibilidad de stock y precios',
@@ -653,7 +652,7 @@ class ContenidoSitio {
               'comerciales ajenos a este propósito. De acuerdo con la Ley N° '
               '19.628 sobre Protección de la Vida Privada, puedes solicitar en '
               'cualquier momento el acceso, rectificación o eliminación de tus '
-              'datos escribiendo a gesma.perez@gmail.com.',
+              'datos escribiendo a @gmail.com.',
         ),
         SeccionLegal(
           titulo: '6. Propiedad intelectual',
@@ -679,8 +678,8 @@ class ContenidoSitio {
         SeccionLegal(
           titulo: '9. Contacto',
           texto: 'Para cualquier consulta sobre este aviso legal, tus datos o el '
-              'funcionamiento del sitio, puedes escribir a gesma.perez@gmail.com '
-              'o por WhatsApp al +56 9 6917 0551.',
+              'funcionamiento del sitio, puedes escribir a @gmail.com '
+              'o por WhatsApp al +56 9 .',
         ),
       ],
     );
