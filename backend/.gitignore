@@ -1,0 +1,5 @@
+.dart_tool/
+.packages
+build/
+catalogo_db.json
+catalogo_db.json.tmp

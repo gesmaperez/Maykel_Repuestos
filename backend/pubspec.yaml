@@ -1,0 +1,13 @@
+name: maykel_backend
+description: Backend en Dart (shelf) del catálogo público de Maykel Repuestos.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.1
+  shelf_router: ^1.1.4
+  shelf_static: ^1.1.2
+  path: ^1.9.0
